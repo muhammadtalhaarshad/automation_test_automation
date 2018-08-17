@@ -1,0 +1,58 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/mobilogy-diagnostics-app/dist
+/mobilogy-diagnostics-app/logs
+/mobilogy-diagnostics-app/tmp
+/mobilogy-diagnostics-app/out-tsc
+/mobilogy-diagnostics-app/auto-generated
+/mobilogy-pro-care-app/dist
+/mobilogy-pro-care-app/logs
+/mobilogy-pro-care-app/tmp
+/mobilogy-pro-care-app/out-tsc
+/mobilogy-pro-care-app/auto-generated
+/auto-generated
+
+# dependencies
+node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+*.njsproj
+.settings/
+*.sublime-workspace
+.editorconfig
+node_modules
+.idea
+
+# IDE - VSCode
+/mobilogy-diagnostics-app/.vscode
+/mobilogy-diagnostics-app/.vs
+/mobilogy-pro-care-app/.vscode
+/mobilogy-pro-care-app/.vs
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/reports
+/libpeerconnection.log
+npm-debug.log
+debug.log
+package-lock.json
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+local.log
+*.png

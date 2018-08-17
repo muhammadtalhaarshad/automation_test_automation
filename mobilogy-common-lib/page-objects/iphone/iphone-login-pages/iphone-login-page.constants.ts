@@ -1,0 +1,36 @@
+export class IPhoneLoginPageConstants {
+    static readonly proCareText = 'ProCare';
+    static readonly continueText = 'CONTINUE';
+    static readonly loginText = 'LOGIN';
+    static readonly myDeviceText = 'My device';
+    static readonly welcomeToProCareText = 'Welcome to the ProCare app';
+    static readonly welcomeToTransferText = 'Welcome to the Transfer app';
+    static readonly welcomeToDiagnosticsText = 'Welcome to the Diagnostics app';
+    static readonly privacyPolicyText = 'Privacy Policy';
+    static readonly eulaPolicyText = 'EULA agreement';
+    static readonly keyboard = 'keyboard';
+    static readonly enterActiviationCodeText = 'Enter Activation code';
+    static readonly transferAppText = 'Transfer App';
+    static readonly iNextText = 'i-next';
+    static readonly excellentText = 'Excellent';
+    static readonly unlockedText = 'Unlocked';
+    static readonly displayTestText = 'Display test';
+    static readonly btnNextText = 'btn next';
+    static readonly btnVText = 'btn v';
+    static readonly iTouchImageText = 'i-touch.png';
+    static readonly eyeOn = 'eye on';
+    static readonly eyeOff = 'eye off';
+    static readonly ok = 'OK';
+    static readonly dontAllow = "Don’t Allow";
+    static readonly genericPhone = 'generic phone big';
+    static readonly srcPhoneText = 'Source Phone';
+    static readonly dstPhoneText = 'Destination Phone';
+    static readonly accessContactsDescriptionText = 'Allows Transfer_Staging app access to stored contacts for copying from the source to the target device';
+    static readonly accessCalendarDescriptionText = 'Allows Transfer_Staging app access to stored calendar content for copying from the source to the target device';
+    static readonly accessPhotosDescriptionText = 'Enables Transfer_Staging to access your photos';
+    static readonly accessContactsText = '“Transfer_Staging” Would Like to Access Your Contacts';
+    static readonly accessCalendarText = '“Transfer_Staging” Would Like to Access Your Calendar';
+    static readonly accessPhotosText = '“Transfer_Staging” Would Like to Access Your Photos';
+    static readonly pairingDeviceText = 'Secured & fast content transfer between devices';
+    static readonly whichPhoneText = 'Which phone is this?';
+}
